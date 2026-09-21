@@ -1,4 +1,4 @@
-[中文](README.md)
+[English](README_EN.md)
 
 # 你好，我是 Sheng Hong 👋
 
